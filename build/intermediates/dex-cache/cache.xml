@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Kaming\Desktop\ThePandaByte\FTC SDK\ftc_app-master\FtcRobotController\build\intermediates\exploded-aar\RobotCore-release\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="141c9410c57da655ddebd85f577cc6b51811c525">
+        <dex dex="C:\Users\Kaming\Desktop\ThePandaByte\FTC SDK\ftc_app-master\FtcRobotController\build\intermediates\pre-dexed\debug\classes-b50c111116ff3428a76fd8530fbda1ab97e41d76.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kaming\Desktop\ThePandaByte\FTC SDK\ftc_app-master\FtcRobotController\build\intermediates\exploded-aar\ModernRobotics-release\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ad4adcdf8eb6ff2b3b4fe9f1d676f099db621d60">
+        <dex dex="C:\Users\Kaming\Desktop\ThePandaByte\FTC SDK\ftc_app-master\FtcRobotController\build\intermediates\pre-dexed\debug\classes-e86ae9fc15d3e4d2ede5b02c8d61468bc1469c2c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kaming\Desktop\ThePandaByte\FTC SDK\ftc_app-master\FtcRobotController\build\intermediates\exploded-aar\WirelessP2p-release\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ebf8372b5bc9dc9f596ed438df36481099d51c41">
+        <dex dex="C:\Users\Kaming\Desktop\ThePandaByte\FTC SDK\ftc_app-master\FtcRobotController\build\intermediates\pre-dexed\debug\classes-9649544f8e265bcc8426a640edb50469863fc5ec.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kaming\Desktop\ThePandaByte\FTC SDK\ftc_app-master\FtcRobotController\build\intermediates\exploded-aar\Analytics-release\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="23c74caa2b901107adc4d0aec343c5b8e8be86fb">
+        <dex dex="C:\Users\Kaming\Desktop\ThePandaByte\FTC SDK\ftc_app-master\FtcRobotController\build\intermediates\pre-dexed\debug\classes-6b317401d3e697ff02db16ef22e9b97ff05a74ef.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kaming\Desktop\ThePandaByte\FTC SDK\ftc_app-master\FtcRobotController\build\intermediates\exploded-aar\FtcCommon-release\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81c82e1248666e3dba585aa2044cb6f367ec6066">
+        <dex dex="C:\Users\Kaming\Desktop\ThePandaByte\FTC SDK\ftc_app-master\FtcRobotController\build\intermediates\pre-dexed\debug\classes-90fcdf4507e035d07916ceec9a39cfa5b8946ae5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kaming\Desktop\ThePandaByte\FTC SDK\ftc_app-master\FtcRobotController\build\intermediates\exploded-aar\Hardware-release\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1e813cd0f3937ee1d0b272907ce672b7f4ad2ea2">
+        <dex dex="C:\Users\Kaming\Desktop\ThePandaByte\FTC SDK\ftc_app-master\FtcRobotController\build\intermediates\pre-dexed\debug\classes-5ac4689c4275256c21f6c47a8dd356824fef145e.jar" />
+    </item>
+
+</items>

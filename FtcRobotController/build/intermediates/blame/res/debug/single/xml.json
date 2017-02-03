@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Kaming\\Desktop\\FTC9889\\Android Studio\\FTC SDK from 2015-2016\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\xml\\device_filter.xml",
+        "source": "C:\\Users\\Kaming\\Desktop\\FTC9889\\Android Studio\\FTC SDK from 2015-2016\\ftc_app-master\\FtcRobotController\\src\\main\\res\\xml\\device_filter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kaming\\Desktop\\FTC9889\\Android Studio\\FTC SDK from 2015-2016\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "C:\\Users\\Kaming\\Desktop\\FTC9889\\Android Studio\\FTC SDK from 2015-2016\\ftc_app-master\\FtcRobotController\\src\\main\\res\\xml\\preferences.xml"
+    }
+]
